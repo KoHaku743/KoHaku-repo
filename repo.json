@@ -8,7 +8,7 @@
       "developerName": "KoHaku",
       "version": "1.0.0",
       "versionDate": "2025-08-24",
-      "iconURL": "https://github.com/KoHaku743/weather.app/blob/main/weatherapp.png?raw=true",
+      "iconURL": "https://raw.githubusercontent.com/KoHaku743/weather.app/main/weatherapp.png",
       "downloadURL": "https://github.com/KoHaku743/PakePlus-iOS/releases/download/WeatherApp/WeatherApp-1.0.0.ipa",
       "localizedDescription": "A lightweight iOS weather app created by KoHaku.",
       "size": 12345678,
