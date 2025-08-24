@@ -1,0 +1,15 @@
+{
+  "name": "KoHaku's Repo",
+  "identifier": "com.kohaku.myrepo",
+  "apps": [
+    {
+      "name": "Weather App",
+      "bundleID": "com.kohaku.weatherapp",
+      "developer": "KoHaku",
+      "version": "1.0.0",
+      "versionDate": "2025-08-24",
+      "icon": "https://github.com/KoHaku743/weather.app/blob/main/weatherapp.png?raw=true",
+      "downloadURL": "https://github.com/KoHaku743/PakePlus-iOS/releases/download/WeatherApp/WeatherApp-1.0.0.ipa"
+    }
+  ]
+}
