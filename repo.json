@@ -4,12 +4,16 @@
   "apps": [
     {
       "name": "Weather App",
-      "bundleID": "com.kohaku.weatherapp",
-      "developer": "KoHaku",
+      "bundleIdentifier": "com.kohaku.weatherapp",
+      "developerName": "KoHaku",
       "version": "1.0.0",
       "versionDate": "2025-08-24",
-      "icon": "https://github.com/KoHaku743/weather.app/blob/main/weatherapp.png?raw=true",
-      "downloadURL": "https://github.com/KoHaku743/PakePlus-iOS/releases/download/WeatherApp/WeatherApp-1.0.0.ipa"
+      "iconURL": "https://github.com/KoHaku743/weather.app/blob/main/weatherapp.png?raw=true",
+      "downloadURL": "https://github.com/KoHaku743/PakePlus-iOS/releases/download/WeatherApp/WeatherApp-1.0.0.ipa",
+      "localizedDescription": "A lightweight iOS weather app created by KoHaku.",
+      "size": 12345678,
+      "subtitle": "Weather made easy",
+      "tintColor": "87bdcd"
     }
   ]
 }
